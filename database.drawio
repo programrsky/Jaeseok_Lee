@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="페이지-1" id="PjEZvH0chDCrzeqFpigF">
-    <mxGraphModel dx="1687" dy="918" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="538" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -650,7 +650,7 @@
         <mxCell id="RP_GY5HVs8YFrgBo5Otx-8" value="https://jsl.comon.kr/api/user/logout : post" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="gyUNHiNfrhNprMqFqHRp-20">
           <mxGeometry y="90" width="314" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RP_GY5HVs8YFrgBo5Otx-11" value="https://jsl.comon.kr/api/user/update : post" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="gyUNHiNfrhNprMqFqHRp-20">
+        <mxCell id="RP_GY5HVs8YFrgBo5Otx-11" value="https://jsl.comon.kr/api/user/update : put" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="gyUNHiNfrhNprMqFqHRp-20">
           <mxGeometry y="120" width="314" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RP_GY5HVs8YFrgBo5Otx-14" value="https://jsl.comon.kr/api/user/delete/{userId} : post" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="gyUNHiNfrhNprMqFqHRp-20">
